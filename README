@@ -1,0 +1,4 @@
+Usage: ./efolder [path-to-scan]
+You can run it without any argument to check the current directory.
+
+- Yonle <yonle@duck.com>
